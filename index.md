@@ -8,8 +8,7 @@ The IEEE International Conference on Data Mining (ICDM) 2025 Ph.D. Forum provide
 
 The forum is open exclusively to currently enrolled Ph.D. Students. Submissions encompass a wide spectrum of topics within data mining research, reflecting the broad scope of the IEEE ICDM 2025 Conference. This includes such topics as big data analytics, machine learning, artificial intelligence, statistics, databases, information retrieval, social media analysis, and multimedia and web mining. Application areas of data mining, such as social sciences, physical sciences, engineering, life sciences, web, marketing, finance, precision medicine, health informatics, and other domains are also encouraged. 
 
-Accepted papers will be published in the conference proceedings. 
-Top submissions will be chosen for live presentations during the Forum, while other accepted works will be showcased in interactive poster sessions.
+Accepted papers will be published in the conference proceedings. Top submissions will be chosen for live presentations during the Forum, while other accepted works will be showcased in interactive poster sessions.
 
 Please note that in-person attendance is required for all participants in the Ph.D. Forum; remote participation is not available for this event. Please note, that the conference offers a one-day registration option to attend Ph.D. Forum specifically. 
 
