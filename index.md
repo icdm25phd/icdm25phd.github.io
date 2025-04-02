@@ -10,28 +10,32 @@ The forum is open exclusively to currently enrolled Ph.D. Students. Submissions 
 
 Accepted papers will be published in the conference proceedings. Top submissions will be chosen for live presentations during the Forum, while other accepted works will be showcased in interactive poster sessions.
 
-Please note that in-person attendance is required for all participants in the Ph.D. Forum; remote participation is not available for this event.
+Please note that in-person attendance is required for all participants in the Ph.D. Forum; remote participation is not available for this event. Please note, that the conference offers a one-day registration option to attend Ph.D. Forum specifically. 
 
 ## Important Dates
 
-- Submission deadline: TBD
-- Notification of acceptance: TBD
+- Submission deadline: June 6, 2025
+- Notification of acceptance: August 25, 2025
 - Camera-ready of Accepted Papers:TBD
 - Forum date: TBD
 
 ## Application Submission
 
-Applications must be submitted using the following submission portal: TBD
+Applications must be submitted using the following submission portal: https://www.wi-lab.com/cyberchair/2025/icdm25.
+Accepted papers will be published in the ICDM Workshops Proceedings.
     
 ## Application Material
 
 ### Papers
 
-Submitted papers should not exceed 2 pages for the main content, with an optional third page reserved exclusively for references. All submissions must adhere to the official IEEE Conference Proceedings template in a two-column format, accessible via [IEEE Templates](https://www.ieee.org/conferences/publishing/templates.html). Your submission should not be anonymized and should include a complete list of all authors and their affiliations, with the Ph.D. student as the primary author. Submissions should present preliminary findings in data mining research that align with the broad spectrum of topics covered by the IEEE ICDM 2025 Conference.
+All submissions must adhere to the official IEEE Conference Proceedings template in a two-column format, accessible via [IEEE Templates](https://www.ieee.org/conferences/publishing/templates.html). Your submission should not be anonymized and should include a complete list of all authors and their affiliations, with the Ph.D. student as the primary author. Submissions should present preliminary findings in data mining research that align with the broad spectrum of topics covered by the IEEE ICDM 2025 Conference.
     
 Each Ph.D. student is limited to a single submission to this Ph.D. Forum. Once a paper is submitted, no alterations to the author list will be permitted after the submission is due, so please ensure all contributors are properly credited before submission. We are specifically seeking works-in-progress that demonstrate innovative approaches or novel insights in the field of data mining. Submissions that do not meet these criteria or fall outside the realm of ICDM topics may not be considered for the forum. We strongly encourage all applicants to carefully review these guidelines to ensure their submissions meet our requirements.
-    
 
+The PhD Forum is open for two types of submissions:
+Regular papers should present established research with sufficient scientific contribution to the field (a maximum of 8 pages).
+Extended abstracts should present ongoing research that is expected to provide further advances in the future (a maximum of 2 pages).
+    
 ### CV
         
 Please include a CV limited to 1 page. List your background, research publications, and other experiences (education, employment, open-source projects, etc.). The list of publications must include venue, year, and author list.
