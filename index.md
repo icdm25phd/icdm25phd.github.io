@@ -33,8 +33,8 @@ All submissions must adhere to the official IEEE Conference Proceedings template
 Each Ph.D. student is limited to a single submission to this Ph.D. Forum. Once a paper is submitted, no alterations to the author list will be permitted after the submission is due, so please ensure all contributors are properly credited before submission. We are specifically seeking works-in-progress that demonstrate innovative approaches or novel insights in the field of data mining. Submissions that do not meet these criteria or fall outside the realm of ICDM topics may not be considered for the forum. We strongly encourage all applicants to carefully review these guidelines to ensure their submissions meet our requirements.
 
 The PhD Forum is open for two types of submissions:
-Regular papers should present established research with sufficient scientific contribution to the field (a maximum of 8 pages).
-Extended abstracts should present ongoing research that is expected to provide further advances in the future (a maximum of 2 pages).
+- Regular papers should present established research with sufficient scientific contribution to the field (a maximum of 8 pages).
+- Extended abstracts should present ongoing research that is expected to provide further advances in the future (a maximum of 2 pages).
     
 ### CV
         
