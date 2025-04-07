@@ -21,7 +21,8 @@ Please note that in-person attendance is required for all participants in the Ph
 
 ## Application Submission
 
-Applications must be submitted using the following submission portal: https://www.wi-lab.com/cyberchair/2025/icdm25.
+Applications must be submitted using the general submission [portal](https://wi-lab.com/cyberchair/2025/icdm25/index.php).
+PhD Forum submissions should use the following online submission system: [On-line Paper Submission](https://wi-lab.com/cyberchair/2025/icdm25/scripts/ws_submit.php?subarea=S)
 Accepted papers will be published in the ICDM Workshops Proceedings.
     
 ## Application Material
