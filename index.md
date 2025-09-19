@@ -10,7 +10,7 @@ The forum is open exclusively to currently enrolled Ph.D. Students. Submissions 
 
 Accepted papers will be published in the conference proceedings. Top submissions will be chosen for live presentations during the Forum, while other accepted works will be showcased in interactive poster sessions.
 
-Please note that in-person attendance is required for all participants in the Ph.D. Forum; remote participation is not available for this event. Please note, that the conference offers a one-day registration option to attend Ph.D. Forum specifically. 
+Please note that in-person attendance is required for all participants in the Ph.D. Forum; remote participation is not available for this event. 
 
 ## Important Dates
 
